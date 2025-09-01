@@ -39,7 +39,4 @@ The dashboard demonstrates the full process of data analysis in Excel, from **da
 
 ## Screenshots
 ### Dashboard Overview
-![Sales per Region](https://github.com/LukeTritsis13/Superstore_Excel_Dashboard/blob/main/Sales%20by%20region.png)
-![Top 10 Products](https://github.com/LukeTritsis13/Superstore_Excel_Dashboard/blob/main/Top%2010%20Products.png)
-![Profit Margin per Category](https://github.com/LukeTritsis13/Superstore_Excel_Dashboard/blob/main/Top%2010%20Products.png)
 ![Dashboard](https://github.com/LukeTritsis13/Superstore_Excel_Dashboard/blob/main/Dashboard.png)
