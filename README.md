@@ -40,3 +40,19 @@ The dashboard demonstrates the full process of data analysis in Excel, from **da
 ## Screenshots
 ### Dashboard Overview
 ![Dashboard](https://github.com/LukeTritsis13/Superstore_Excel_Dashboard/blob/main/Dashboard.png)
+
+## Data Source
+- [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) (public dataset)
+
+---
+
+## How to Use
+1. Open `Superstore_Dashboard.xlsx` in Excel.  
+2. Use the **Order Year** slicer to filter data by year.  
+3. Use the **Returned / Not Returned** slicer to filter out returned orders.  
+4. Explore charts to analyze sales, profit, profit margins, and top products across regions and categories.
+
+---
+
+## Conclusion
+This project demonstrates an end-to-end **Excel-based data analysis workflow**, highlighting both technical skills (PivotTables, formulas, slicers) and **business acumen** through actionable insights derived from sales data.
