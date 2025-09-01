@@ -26,10 +26,10 @@ The dashboard demonstrates the full process of data analysis in Excel, from **da
 ## Business Insights
 *(Insights are based only on orders that were **not returned**)*  
 
-- **Furniture products** generate more sales revenue than office supplies but have much lower profit and the **lowest profit margin** among all categories.  
-  - Furniture profit margins are about **15% lower** than other categories.  
+- **Furniture products** generate more sales revenue than **office supplies** but have much lower profit and the **lowest profit margin** among all categories.  
+  - **Furniture** profit margins are about **15% lower** than other categories.  
 - **Office supplies** have the **highest profit margin**, only slightly higher than technology products.  
-- **Technology products** generate the most sales revenue and are almost tied with office supplies for the top profit margin.  
+- **Technology products** generate the most sales revenue and are almost tied with **office supplies** for the top profit margin.  
 - The **West region** has the highest sales revenue and profit.  
 - Total orders amounted to **9,994** with a total sales revenue of **$2,297,201**.  
   - **800 orders** were returned, totaling **$180,504** in sales revenue lost.  
@@ -49,7 +49,7 @@ The dashboard demonstrates the full process of data analysis in Excel, from **da
 ## How to Use
 1. Open `Superstore_Dashboard.xlsx` in Excel.  
 2. Use the **Order Year** slicer to filter data by year.  
-3. Use the **Returned / Not Returned** slicer to filter out returned orders.  
+3. Use the **Returned** slicer to filter out returned orders.  
 4. Explore charts to analyze sales, profit, profit margins, and top products across regions and categories.
 
 ---
