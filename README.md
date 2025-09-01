@@ -39,6 +39,6 @@ The dashboard demonstrates the full process of data analysis in Excel, from **da
 
 ## Screenshots
 ### Dashboard Overview
-![Sales per Region](images/sales_per_region.png)
+![Sales per Region](Sales by region.png)
 ![Top 10 Products](images/top_10_products.png)
 ![Profit Margin per Category](images/profit_margin_category.png)
